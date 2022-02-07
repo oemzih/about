@@ -4,17 +4,16 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="https://avatars0.githubusercontent.com/u/31664438?s=460&u=251f36d7ab0fb4a74b162be7b18f6cdca8a74f8c&v=4">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+A Software engineer , i'm always tinkering, sometimes music-ing. Lately interested in data, automation, reverse engineering, and brain stuff
+## Social Media
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+<a href="https://fb.me/fdciabdul"><img src="https://cdn-icons-png.flaticon.com/512/145/145802.png" alt="alt text" width="30" height="30"></a>      &nbsp;&nbsp;   <a href="https://instagram.com/fdciabdul"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="alt text" width="30" height="30"></a>
+ &nbsp;&nbsp; 
+<a href="https://twitter.com/fdciabdul"><img src="https://user-images.githubusercontent.com/31664438/134009546-a0b29d09-a883-435e-9581-3c2692f0ac6e.png" alt="alt text" width="30" height="30"></a>
 
-## Research Interest
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
-
-## Publications
+## Project
 
 1. F.Bar, J.Doe: Effects of having a placeholder of a name
 2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
