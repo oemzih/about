@@ -15,7 +15,7 @@ A Software engineer , i'm always tinkering, sometimes music-ing. Lately interest
 
 ## Project
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
+1. OCR KTP INDONESIA 
 2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
 
 ## Typography
