@@ -3,24 +3,15 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [abdulmuttaqin456@gmail.com](abdulmuttaqin456@gmail.com)
 
-* Phone: [+91-123123](tel:+91-123123)
-
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
+* Phone: [+6289614737919](tel:+6289614737919)
 
 ---
+
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Facebook](https://fb.me/ta.qin.1004)
+2. [Twitter](https://twitter.com/fdciabdul)
+3. [Instgaram](https://instagram.com/fdciabdul)
