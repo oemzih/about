@@ -1,4 +1,4 @@
-title: Researcher
+title: Abdul Muttaqi 
 url: "https://fdciabdul.github.io"
 baseurl: "/"
 
@@ -9,7 +9,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_text: "@fdciabd"
 
 sass:
     style: compressed
