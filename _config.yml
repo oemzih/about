@@ -3,12 +3,12 @@ url: "https://oemzih.github.io/about"
 baseurl: "/"
 
 markdown: kramdown
-#ins_logo: "./sherlock.jpg"
+#ins_logo: "./thismootsga.jpg"
 
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com"
+footer_url: "https://github.com/oemzih/about"
 footer_text: "@thismootsga"
 
 sass:
