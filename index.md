@@ -16,7 +16,7 @@ A Software engineer , i'm always tinkering, sometimes music-ing. Lately interest
 
 ## Project
 
-You can see all project on here [Project](https://blom ada)
+You can see all project on here [Project](https://github.com/oemzih/about/blob/master/project.md)
 
 ## Hobby
 
