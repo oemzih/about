@@ -11,7 +11,6 @@ A student who likes IT world. I am always tinkering, sometimes i like listening 
 ## Social Media
 
 [Instagram](http://instagram.com/ryan.frf) / 
-[Twitter](https://twitter.com/)
 
 <!--
 ## Project
