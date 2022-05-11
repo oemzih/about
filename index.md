@@ -4,7 +4,7 @@ layout: default
 
 ## About Me :)
 
-<img class="profile-picture" src="https://avatars0.githubusercontent.com/u/31664438?s=460&u=251f36d7ab0fb4a74b162be7b18f6cdca8a74f8c&v=4">
+<img class="profile-picture" src="sherlock.jpg">
 
 A Software engineer , i'm always tinkering, sometimes music-ing. Lately interested in data, automation, reverse engineering, and brain stuff
 
