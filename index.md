@@ -4,7 +4,7 @@ layout: default
 
 ## About Me :)
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="thismootsga.jpg" alt="gamteng">
 
 A student who likes IT world. I am always tinkering, sometimes i like listening to music. These days I'm interested in money, you, and things that make your brain happy.
 
