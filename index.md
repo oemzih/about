@@ -29,5 +29,3 @@ You can see all project on here [Project](https://github.com/oemzih/about/blob/m
 ---
 
 > To a great mind, nothing is little
-
-![Visitor Badge](https://visitor-badges.glitch.me?username=thismoots&repo=ga&label=VISITOR&style=social&color=%23457BFF&contentType=svg)
