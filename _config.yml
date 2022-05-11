@@ -1,5 +1,5 @@
-title: Abdul Muttaqin
-url: "https://fdciabdul.github.io"
+title: thismootsga
+url: "https://oemzih.github.io/about"
 baseurl: "/"
 
 markdown: kramdown
@@ -9,7 +9,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://github.com/ankitsultana"
-footer_text: "@fdciabdul"
+footer_text: "@thismootsga"
 
 sass:
     style: compressed
