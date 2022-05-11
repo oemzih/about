@@ -8,7 +8,7 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/oemzih/about"
+footer_url: "https://github.com/oemzih/"
 footer_text: "@thismootsga"
 
 sass:
