@@ -6,17 +6,18 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-A Software engineer , i'm always tinkering, sometimes music-ing. Lately interested in data, automation, reverse engineering, and brain stuff
+A student who likes IT world, I am always tinkering, sometimes I like listening to music. These days I'm interested in money, you, and things that make your brain happy.
 
 ## Social Media
 
 [Instagram](http://instagram.com/ryan.frf) / 
 [Twitter](https://twitter.com/)
 
-
+<!--
 ## Project
 
 You can see all project on here [Project](https://github.com/oemzih/about/blob/master/project.md)
+-->
 
 ## Hobby
 
