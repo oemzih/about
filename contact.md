@@ -5,7 +5,7 @@ is_contact: true
 
 * Email: [oemzih@gmail.com](mailto:oemzih@gmail.com)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+62](tel:+62-87714745440)
 
 ---
 
