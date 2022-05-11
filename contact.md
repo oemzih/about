@@ -5,7 +5,7 @@ is_contact: true
 
 * Email: [oemzih@gmail.com](mailto:oemzih@gmail.com)
 
-* Phone: [+62]
+* Phone: [+91-123123](tel:+91-123123)
 
 ---
 
@@ -13,24 +13,3 @@ is_contact: true
 ## Social
 
 • [Instagram](https://instagram.com/thismootsga)
-ㅤㅤ
-ㅤ
-ㅤ
-ㅤ
-ㅤ
-ㅤ
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
