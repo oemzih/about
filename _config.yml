@@ -1,6 +1,6 @@
 title: thismootsga
 url: "https://oemzih.github.io/about"
-baseurl: "/"
+baseurl: "/about"
 
 markdown: kramdown
 #ins_logo: "./thismootsga.jpg"
