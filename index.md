@@ -10,14 +10,13 @@ A Software engineer , i'm always tinkering, sometimes music-ing. Lately interest
 
 ## Social Media
 
-[Facebook ](http://fb.me/ta.qin.1004) / 
-[Linkedin](https://www.linkedin.com/in/abdul-muttaqin-369026143) /
-[Twitter](https://twitter.com/fdciabdul)
+[Instagram](http://instagram.com/ryan.frf) / 
+[Twitter](https://twitter.com/)
 
 
 ## Project
 
-You can see all project on here [Project](https://github.com/fdciabdul?tab=repositories)
+You can see all project on here [Project](https://blom ada)
 
 ## Hobby
 
